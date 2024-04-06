@@ -1,7 +1,7 @@
-# Falcon 7B Instruct Chatbot
+# Chainlit - Alpha
 
 ## Overview
-Falcon 7B Instruct Chatbot is a conversational AI powered by the LangChain framework and Hugging Face models. It serves as a general chatbot capable of answering questions related to enterprises. The chatbot is built to be deployed as a Docker container, ensuring easy deployment and scalability.
+Chainlit - Alpha Chatbot is a conversational AI powered by the LangChain framework and Hugging Face models. It serves as a general chatbot capable of answering questions related to enterprises. The chatbot is built to be deployed as a Docker container, ensuring easy deployment and scalability.
 
 ## Features
 - General chatbot functionality
@@ -15,7 +15,7 @@ Falcon 7B Instruct Chatbot is a conversational AI powered by the LangChain frame
 ## Installation
 1. Clone the repository:
     ```
-    git clone https://github.com/tiiuae/falcon-7b-instruct.git
+    git clone https://github.com/manas95826/chainlit-alpha.git
     cd falcon-7b-instruct
     ```
 
@@ -29,12 +29,12 @@ Falcon 7B Instruct Chatbot is a conversational AI powered by the LangChain frame
 
 2. Build the Docker image:
     ```
-    docker build -t falcon-7b-instruct .
+    docker build -t chainlit-alpha .
     ```
 
 3. Run the Docker container:
     ```
-    docker run -d -p 7860:7860 falcon-7b-instruct
+    docker run -d -p 7860:7860 chainlit-alpha
     ```
 
 ## Configuration
