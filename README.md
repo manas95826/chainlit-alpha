@@ -16,7 +16,7 @@ Chainlit - Alpha Chatbot is a conversational AI powered by the LangChain framewo
 1. Clone the repository:
     ```
     git clone https://github.com/manas95826/chainlit-alpha.git
-    cd falcon-7b-instruct
+    cd chainlit-alpha
     ```
 
 2. Install dependencies:
